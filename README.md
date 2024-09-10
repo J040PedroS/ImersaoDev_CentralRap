@@ -1,4 +1,4 @@
-Central do Rap: Sua lista telefônica do rap digital!
+Central do Rap: Sua lista telefônica do rap digital! - Imersão Dev com Google Gemini com Alura
 O que faz essa aplicação?
 
 Quer encontrar seu rapper favorito rapidinho? A Central do Rap te ajuda! Com essa ferramenta, você digita o nome do artista e, prontinho, a gente te mostra uma lista com tudo sobre ele: nome, descrição e até um link pro YouTube!
